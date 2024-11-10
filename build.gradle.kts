@@ -26,7 +26,6 @@ dependencies {
 
     runtimeOnly("org.postgresql:postgresql")
     runtimeOnly("org.springframework.boot:spring-boot-devtools")
-    compileOnly("org.projectlombok:lombok")
 }
 
 springBoot {
